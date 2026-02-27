@@ -46,9 +46,11 @@ Implements the **incremental optimal timing subproblem solver (Algorithm 1)**. T
 
 This module is the primary low level solver used by the JointTAP framework.
 
-#### 4. Assistance OTP (Originally, OPTP)
+#### 4. Assistance OTP
 
-Contains the [original implementation](https://github.com/eitanbloch/TAP/) of the AssistanceOTP solver.
+**Files:** `assistance_otp.h`, `assistance_otp.cpp`
+
+Contains the [original implementation](https://github.com/eitanbloch/TAP/) of the AssistanceOTP (Originally, OPTP) solver.
 
 ---
 
