@@ -38,7 +38,7 @@ Implements the bounding technique described in **Section VI-A** of the paper.
 
 **Files:** `incremental_otp.h`, `incremental_otp.cpp`
 
-Implements the **incremental optimal timing subproblem solver (Algorithm 1)**. This solver:
+Implements the incremental optimal timing subproblem solver suggested in **Algorithm 1** in the paper. This solver:
 
 * Maintains interval structures incrementally
 * Reuses previous computations when intervals change
