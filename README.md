@@ -26,6 +26,8 @@ This repository contains an implementation described in the accompanying paper o
 
 **Files:** `joint_tap.h`, `joint_tap.cpp`
 
+![Nested Branch and Bpund Solver](nested.jpg)
+
 Implements the nested Branch and Bound framework corresponding to **Algorithms 2 and 3** in the paper.
 
 #### 2. Upper Bound Computation
